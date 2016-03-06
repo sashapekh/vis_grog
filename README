@@ -1,3 +1,12 @@
+<h1>Визуальное программирование (3 курс , 2 семестр) <h1>
+
+
+
+
+
+
+
+
 For editing and running the server, install Python 3.5.0 https://www.python.org/downloads/
 NB! Enable option "Add Python to environment variables" && "Install pip"
 To install Django, at command line:
